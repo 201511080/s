@@ -1,5 +1,13 @@
 [![Gitter](https://badges.gitter.im/smu405/s.svg)](https://gitter.im/smu405/s?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+# Upstream 설정
+```
+git remote add upstream https://github.com/smu405/s.git
+git fetch upstream
+git merge upstream/master
+```
+
+
 # 빅데이터 프로그래밍
 
 * 최종수정일 20210903화
